@@ -1,0 +1,46 @@
+body {
+	font-family: verdana;
+	font-size: 14px;
+	background-color: #E0FFFF;
+}
+.button {
+	background-color: #BCD2EE;
+}
+.buttonn {
+	background-color: #54FF9F;
+}
+.buttonnn {
+	background-color: #79CDCD;
+}
+.buttonnnn {
+	background-color: #FFF68F;
+}
+.boot {
+	border-radius: 8px;
+	padding: 3px;
+	border-style: #FFB90F;
+	border-width: 2px;
+}
+.boott{
+	border-radius: 7px;
+	padding: 0px;
+	border-style: #FFB90F;
+	border-width: 2px;
+}
+.boottt {
+	border-radius: 9px;
+	padding: 4px;
+	border-style: #FFB90F;
+	border-width: 2px;
+}
+.font {
+	font-family: Georgia;
+	font-size: 15px;
+}
+.fontt {
+	font-family: DejaVu Sans;
+	font-size: 21px;
+}
+.cor {
+	color: #00008B;
+}
